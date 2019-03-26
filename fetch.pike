@@ -8,6 +8,7 @@ int main(int argc, array(string) argv)
 	array mp4 = glob("*.mp4", files)[*] - ".mp4";
 	json -= mp4;
 	write("%d clips to download.\n", sizeof(json));
+	if (has_value(argv, "--simulate")) return 0;
 	while (sizeof(json))
 	{
 		string slug = random(json);
