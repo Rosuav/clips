@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "27413864976",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-01-27T21:03:13Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/rv_catu",
+    "display_name": "rv_catu",
+    "id": "22450222",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/rv_catu-profile_image-6e39c80a77186892-150x150.png",
+    "name": "rv_catu"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=TenderTriumphantMagpieUWot&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=TenderTriumphantMagpieUWot&tt_medium=clips_api&tt_content=embed",
+  "game": "IRL",
+  "language": "en",
+  "slug": "TenderTriumphantMagpieUWot",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/27413864976-offset-164-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/27413864976-offset-164-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/27413864976-offset-164-preview-86x45.jpg"
+  },
+  "title": "\u3010\ud83d\udc99Let's chat, then play Stardew Valley! (\u00b4\u03c9\uff40)\ud83d\udc99\u3011*:\uff65\uff9f\u2727\u3010\u2728450 Sub Points = 12 Hour Stream\u2728\u3011",
+  "tracking_id": "184060526",
+  "url": "https://clips.twitch.tv/TenderTriumphantMagpieUWot?tt_medium=clips_api&tt_content=url",
+  "views": 4,
+  "vod": null
+}

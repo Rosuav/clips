@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "28673170656",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-05-12T22:00:19Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/ciri_ion",
+    "display_name": "Ciri_Ion",
+    "id": "48972954",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/ciri_ion-profile_image-40d9e4faf3014800-150x150.png",
+    "name": "ciri_ion"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=FaithfulDifferentStingraySaltBae&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=FaithfulDifferentStingraySaltBae&tt_medium=clips_api&tt_content=embed",
+  "game": "creative",
+  "language": "en",
+  "slug": "FaithfulDifferentStingraySaltBae",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/28673170656-offset-7172-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/28673170656-offset-7172-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/28673170656-offset-7172-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf0a\u3010 Mermaid \u3011\ud83c\udf0a*:\uff65\uff9f\u2727\u3010 \u2728 !news \u2728 \u3011 #mermay #anime",
+  "tracking_id": "239223285",
+  "url": "https://clips.twitch.tv/FaithfulDifferentStingraySaltBae?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": {
+    "id": "260671916",
+    "offset": 7148,
+    "preview_image_url": "https://static-cdn.jtvnw.net/s3_vods/87f0e08c6e03bae30a45_devicat_28673170656_860743330/thumb/thumb0-320x240.jpg",
+    "url": "https://www.twitch.tv/videos/260671916?t=1h59m8s"
+  }
+}

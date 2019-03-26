@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "26308899424",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2017-09-21T20:35:09Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/sakurakoneko",
+    "display_name": "SakuraKoneko",
+    "id": "131364305",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/4cb43e72-62e7-4f2f-9678-dcea169ff9a5-profile_image-150x150.jpg",
+    "name": "sakurakoneko"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ReliableTacitMosquitoDAESuppy&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=ReliableTacitMosquitoDAESuppy&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "ReliableTacitMosquitoDAESuppy",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/26308899424-offset-1718-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/26308899424-offset-1718-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/26308899424-offset-1718-preview-86x45.jpg"
+  },
+  "title": "\ud83d\udd34LIVE \u3010 Halloween Chibi Anime Witch \u3011 \u25a0 \u3010\ud83d\udc8c New RAPTOR Alerts! | !news \ud83d\udc8c\u3011",
+  "tracking_id": "129703514",
+  "url": "https://clips.twitch.tv/ReliableTacitMosquitoDAESuppy?tt_medium=clips_api&tt_content=url",
+  "views": 84,
+  "vod": null
+}

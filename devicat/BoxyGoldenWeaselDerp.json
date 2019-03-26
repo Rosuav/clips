@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "29116418352",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-06-16T23:53:52Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/ilovehellokitty11",
+    "display_name": "iLoveHelloKitty11",
+    "id": "46166825",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/ilovehellokitty11-profile_image-c66b4a14dfb2f54f-150x150.jpeg",
+    "name": "ilovehellokitty11"
+  },
+  "duration": 6.6,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=BoxyGoldenWeaselDerp&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=BoxyGoldenWeaselDerp&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "BoxyGoldenWeaselDerp",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C257579469-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C257579469-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C257579469-preview-86x45.jpg"
+  },
+  "title": "Sakura Senpai",
+  "tracking_id": "257579469",
+  "url": "https://clips.twitch.tv/BoxyGoldenWeaselDerp?tt_medium=clips_api&tt_content=url",
+  "views": 13,
+  "vod": null
+}

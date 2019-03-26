@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "24167385040",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2017-01-07T23:00:44Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/mr_dojj",
+    "display_name": "Mr_Dojj",
+    "id": "37065273",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/20273bc3-d7dd-4081-b5e8-33bf65512f08-profile_image-150x150.png",
+    "name": "mr_dojj"
+  },
+  "duration": 32,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=RichCuteRhinocerosWTRuck&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=RichCuteRhinocerosWTRuck&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "RichCuteRhinocerosWTRuck",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/24167385040-offset-23388-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/24167385040-offset-23388-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/24167385040-offset-23388-preview-86x45.jpg"
+  },
+  "title": "\u25a0 \u3010 12 Hour Stream \u3011\u25a0 \u3010 \u2728 Drawing Sylveon Gijinka \u2728 \u3011  #digitalillustration #drawing #sketch #anime",
+  "tracking_id": "7352305",
+  "url": "https://clips.twitch.tv/RichCuteRhinocerosWTRuck?tt_medium=clips_api&tt_content=url",
+  "views": 14,
+  "vod": null
+}

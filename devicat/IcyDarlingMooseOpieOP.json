@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "32590654272",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-02-07T15:25:15Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/cazzie_bliss",
+    "display_name": "Cazzie_Bliss",
+    "id": "102992565",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6f704376-a2fd-435c-a748-d38623ce52a8-profile_image-150x150.png",
+    "name": "cazzie_bliss"
+  },
+  "duration": 7.4,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=IcyDarlingMooseOpieOP&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=IcyDarlingMooseOpieOP&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "IcyDarlingMooseOpieOP",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C395204917-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C395204917-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C395204917-preview-86x45.jpg"
+  },
+  "title": "Now loading!",
+  "tracking_id": "395204917",
+  "url": "https://clips.twitch.tv/IcyDarlingMooseOpieOP?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": {
+    "id": "376233815",
+    "offset": 15032,
+    "preview_image_url": "https://static-cdn.jtvnw.net/s3_vods/01ebeb29bfd34cecf334_devicat_32590654272_1105541323/thumb/thumb0-320x240.jpg",
+    "url": "https://www.twitch.tv/videos/376233815?t=4h10m32s"
+  }
+}

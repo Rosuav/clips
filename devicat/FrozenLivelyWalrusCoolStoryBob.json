@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "27931772912",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-03-14T21:28:29Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/xlalexanderix",
+    "display_name": "xlAlexanderIx",
+    "id": "57611002",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/xlalexanderix-profile_image-55d267e96c106c93-150x150.jpeg",
+    "name": "xlalexanderix"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=FrozenLivelyWalrusCoolStoryBob&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=FrozenLivelyWalrusCoolStoryBob&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "FrozenLivelyWalrusCoolStoryBob",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/27931772912-offset-6982-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/27931772912-offset-6982-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/27931772912-offset-6982-preview-86x45.jpg"
+  },
+  "title": "What is",
+  "tracking_id": "208196727",
+  "url": "https://clips.twitch.tv/FrozenLivelyWalrusCoolStoryBob?tt_medium=clips_api&tt_content=url",
+  "views": 6,
+  "vod": null
+}

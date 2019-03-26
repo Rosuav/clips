@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "28503374064",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-04-29T00:44:22Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/lindbergh_",
+    "display_name": "Lindbergh_",
+    "id": "92940717",
+    "logo": "https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-150x150.jpg",
+    "name": "lindbergh_"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=CovertHeartlessDogeFailFish&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=CovertHeartlessDogeFailFish&tt_medium=clips_api&tt_content=embed",
+  "game": "creative",
+  "language": "en",
+  "slug": "CovertHeartlessDogeFailFish",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/28503374064-offset-17084-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/28503374064-offset-17084-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/28503374064-offset-17084-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf31\ud83e\udd8a\u3010 Earth Kitsune \u3011\ud83e\udd8a\ud83c\udf31*:\uff65\uff9f\u2727\u3010 \u2728 !news \u2728 \u3011",
+  "tracking_id": "232110949",
+  "url": "https://clips.twitch.tv/CovertHeartlessDogeFailFish?tt_medium=clips_api&tt_content=url",
+  "views": 4,
+  "vod": null
+}

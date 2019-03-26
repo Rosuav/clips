@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "27653342576",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-02-19T01:31:05Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/juanzanlol",
+    "display_name": "juanzanlol",
+    "id": "141605074",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/abe82c99-5aa5-4811-b3ad-2f351646f628-profile_image-150x150.png",
+    "name": "juanzanlol"
+  },
+  "duration": 25,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=AggressiveHumbleIguanaBleedPurple&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=AggressiveHumbleIguanaBleedPurple&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "AggressiveHumbleIguanaBleedPurple",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/195535903-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/195535903-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/195535903-preview-86x45.jpg"
+  },
+  "title": "THE QUEEN BEE",
+  "tracking_id": "195535903",
+  "url": "https://clips.twitch.tv/AggressiveHumbleIguanaBleedPurple?tt_medium=clips_api&tt_content=url",
+  "views": 6,
+  "vod": null
+}

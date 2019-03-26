@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "30793949584",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-10-16T00:01:23Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/ironmania2003",
+    "display_name": "Ironmania2003",
+    "id": "30625871",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/95041034-e8e4-4dec-b612-74bb1d4dd400-profile_image-150x150.jpg",
+    "name": "ironmania2003"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=GiantRelentlessNigiriGrammarKing&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=GiantRelentlessNigiriGrammarKing&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "GiantRelentlessNigiriGrammarKing",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/30793949584-offset-14168-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/30793949584-offset-14168-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/30793949584-offset-14168-preview-86x45.jpg"
+  },
+  "title": "cat-o-lantern photo negative mode",
+  "tracking_id": "326575102",
+  "url": "https://clips.twitch.tv/GiantRelentlessNigiriGrammarKing?tt_medium=clips_api&tt_content=url",
+  "views": 12,
+  "vod": null
+}

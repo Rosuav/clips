@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "32889352080",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-02-24T00:26:10Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/linkinpark333",
+    "display_name": "linkinpark333",
+    "id": "78749277",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/linkinpark333-profile_image-31b9f9a5ce1090a7-150x150.jpeg",
+    "name": "linkinpark333"
+  },
+  "duration": 28,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ObeseHedonisticCougarDAESuppy&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=ObeseHedonisticCougarDAESuppy&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "ObeseHedonisticCougarDAESuppy",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/32889352080-offset-12074-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/32889352080-offset-12074-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/32889352080-offset-12074-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf08\u3010Sketching Time!\u3011\ud83c\udf08*:\uff65\uff9f\u2727\u3010!EMOTES\u3011",
+  "tracking_id": "406170035",
+  "url": "https://clips.twitch.tv/ObeseHedonisticCougarDAESuppy?tt_medium=clips_api&tt_content=url",
+  "views": 6,
+  "vod": {
+    "id": "385601967",
+    "offset": 12050,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/385601967?t=3h20m50s"
+  }
+}

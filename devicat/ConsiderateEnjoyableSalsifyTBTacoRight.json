@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33021715712",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-03-03T23:35:51Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/goldbonditchpowder",
+    "display_name": "goldbonditchpowder",
+    "id": "161694984",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/257bdd163b79c0e0-profile_image-150x150.png",
+    "name": "goldbonditchpowder"
+  },
+  "duration": 28,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ConsiderateEnjoyableSalsifyTBTacoRight&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=ConsiderateEnjoyableSalsifyTBTacoRight&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "ConsiderateEnjoyableSalsifyTBTacoRight",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/33021715712-offset-9148-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/33021715712-offset-9148-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/33021715712-offset-9148-preview-86x45.jpg"
+  },
+  "title": "keepo",
+  "tracking_id": "411528873",
+  "url": "https://clips.twitch.tv/ConsiderateEnjoyableSalsifyTBTacoRight?tt_medium=clips_api&tt_content=url",
+  "views": 8,
+  "vod": {
+    "id": "389894440",
+    "offset": 9124,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/389894440?t=2h32m4s"
+  }
+}

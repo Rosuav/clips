@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "26360725264",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2017-09-28T23:39:10Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/hatandsandalsguy",
+    "display_name": "hatandsandalsguy",
+    "id": "112568725",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/e0b18add-e831-4326-88c7-f49a3efc92fd-profile_image-150x150.png",
+    "name": "hatandsandalsguy"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=TriangularGleamingVanillaResidentSleeper&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=TriangularGleamingVanillaResidentSleeper&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "TriangularGleamingVanillaResidentSleeper",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/26360725264-offset-13062-30-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/26360725264-offset-13062-30-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/26360725264-offset-13062-30-preview-86x45.jpg"
+  },
+  "title": "Katasha - aka the Oldest Cat",
+  "tracking_id": "132451727",
+  "url": "https://clips.twitch.tv/TriangularGleamingVanillaResidentSleeper?tt_medium=clips_api&tt_content=url",
+  "views": 9,
+  "vod": null
+}

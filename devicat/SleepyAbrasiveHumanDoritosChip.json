@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "29676061280",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-07-28T23:25:42Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/kiromei",
+    "display_name": "Kiromei",
+    "id": "145104581",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/92c2bfbc-ec23-434c-bfa3-c2e8e6e343ba-profile_image-150x150.png",
+    "name": "kiromei"
+  },
+  "duration": 28,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=SleepyAbrasiveHumanDoritosChip&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=SleepyAbrasiveHumanDoritosChip&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "SleepyAbrasiveHumanDoritosChip",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/29676061280-offset-12542-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/29676061280-offset-12542-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/29676061280-offset-12542-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf6c\ud83c\udf6d\u3010 Candy Carnival - OC Anime Girl \u3011\ud83c\udf6d\ud83c\udf6c*:\uff65\uff9f\u2727\u3010 !news \u3011 #devicat #anime ",
+  "tracking_id": "280510089",
+  "url": "https://clips.twitch.tv/SleepyAbrasiveHumanDoritosChip?tt_medium=clips_api&tt_content=url",
+  "views": 4,
+  "vod": null
+}

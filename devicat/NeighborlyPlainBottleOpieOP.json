@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "26324555952",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2017-09-23T21:36:44Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/jemma_grl",
+    "display_name": "Jemma_Grl",
+    "id": "134958799",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/ee0e9f2d13328e98-profile_image-150x150.jpeg",
+    "name": "jemma_grl"
+  },
+  "duration": 20.27,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=NeighborlyPlainBottleOpieOP&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=NeighborlyPlainBottleOpieOP&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "NeighborlyPlainBottleOpieOP",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/26324555952-offset-5384.583333333333-20.250000000000025-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/26324555952-offset-5384.583333333333-20.250000000000025-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/26324555952-offset-5384.583333333333-20.250000000000025-preview-86x45.jpg"
+  },
+  "title": "\ud83d\udd34LIVE \u3010 Chibi Witch \u3011 \u25a0 \u3010\ud83d\udc8c !news \ud83d\udc8c\u3011",
+  "tracking_id": "130519196",
+  "url": "https://clips.twitch.tv/NeighborlyPlainBottleOpieOP?tt_medium=clips_api&tt_content=url",
+  "views": 11,
+  "vod": null
+}

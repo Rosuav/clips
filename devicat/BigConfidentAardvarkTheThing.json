@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "30306067120",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-09-11T00:15:33Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/masters968",
+    "display_name": "masters968",
+    "id": "250217127",
+    "logo": "https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-150x150.jpg",
+    "name": "masters968"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=BigConfidentAardvarkTheThing&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=BigConfidentAardvarkTheThing&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "BigConfidentAardvarkTheThing",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/30306067120-offset-15560-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/30306067120-offset-15560-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/30306067120-offset-15560-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf42\ud83c\udf83\u3010Cat Witch\u3011\ud83c\udf83\ud83c\udf42*:\uff65\uff9f\u2727\u3010!news\u3011",
+  "tracking_id": "307169441",
+  "url": "https://clips.twitch.tv/BigConfidentAardvarkTheThing?tt_medium=clips_api&tt_content=url",
+  "views": 8,
+  "vod": null
+}

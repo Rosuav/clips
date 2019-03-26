@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "27931772912",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-03-15T01:03:23Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/grayshlin",
+    "display_name": "Grayshlin",
+    "id": "168991709",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/d0eb0679-cd69-4ae0-b06c-c6572ed38bc5-profile_image-150x150.jpg",
+    "name": "grayshlin"
+  },
+  "duration": 25.27,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=EnergeticTastyLouseYee&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=EnergeticTastyLouseYee&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "EnergeticTastyLouseYee",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/208300614-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/208300614-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/208300614-preview-86x45.jpg"
+  },
+  "title": "LITAAA",
+  "tracking_id": "208300614",
+  "url": "https://clips.twitch.tv/EnergeticTastyLouseYee?tt_medium=clips_api&tt_content=url",
+  "views": 4,
+  "vod": null
+}

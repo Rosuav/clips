@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "26523568800",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2017-10-19T23:04:04Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/mischievousfoxx",
+    "display_name": "MischievousFoxx",
+    "id": "106433664",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0ea3742d-c1a6-470d-be73-cb9768412371-profile_image-150x150.png",
+    "name": "mischievousfoxx"
+  },
+  "duration": 26.33,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=SpunkyTangentialLasagnaBIRB&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=SpunkyTangentialLasagnaBIRB&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "SpunkyTangentialLasagnaBIRB",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/140763840-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/140763840-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/140763840-preview-86x45.jpg"
+  },
+  "title": "<3",
+  "tracking_id": "140763840",
+  "url": "https://clips.twitch.tv/SpunkyTangentialLasagnaBIRB?tt_medium=clips_api&tt_content=url",
+  "views": 6,
+  "vod": null
+}

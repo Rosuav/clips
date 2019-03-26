@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "26523568800",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2017-10-19T22:03:36Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/kokomokitty",
+    "display_name": "KokomoKitty",
+    "id": "135958721",
+    "logo": "https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-150x150.jpg",
+    "name": "kokomokitty"
+  },
+  "duration": 24.77,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=TrustworthyDepressedWatermelonStrawBeary&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=TrustworthyDepressedWatermelonStrawBeary&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "TrustworthyDepressedWatermelonStrawBeary",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/140745495-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/140745495-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/140745495-preview-86x45.jpg"
+  },
+  "title": "When Stream Labs Dies :O",
+  "tracking_id": "140745495",
+  "url": "https://clips.twitch.tv/TrustworthyDepressedWatermelonStrawBeary?tt_medium=clips_api&tt_content=url",
+  "views": 16,
+  "vod": null
+}

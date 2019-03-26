@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "25719450512",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2017-07-10T20:23:57Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/photosvein",
+    "display_name": "PhotoSvein",
+    "id": "156870594",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d19c2e3cdde171e-profile_image-150x150.jpeg",
+    "name": "photosvein"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ThankfulWildAlbatrossSquadGoals&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=ThankfulWildAlbatrossSquadGoals&tt_medium=clips_api&tt_content=embed",
+  "game": "IRL",
+  "language": "en",
+  "slug": "ThankfulWildAlbatrossSquadGoals",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/25719450512-offset-1387-30-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/25719450512-offset-1387-30-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/25719450512-offset-1387-30-preview-86x45.jpg"
+  },
+  "title": "Devi makes KappaPetCat eat for the first time",
+  "tracking_id": "98633315",
+  "url": "https://clips.twitch.tv/ThankfulWildAlbatrossSquadGoals?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": null
+}

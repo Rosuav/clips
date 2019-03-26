@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "28018667760",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-03-22T00:52:29Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/madthickie1",
+    "display_name": "madthickie1",
+    "id": "142758591",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/a1d0fcb0-0640-46fd-a321-b7c9ec430fbd-profile_image-150x150.png",
+    "name": "madthickie1"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=VictoriousArtsyBillPeoplesChamp&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=VictoriousArtsyBillPeoplesChamp&tt_medium=clips_api&tt_content=embed",
+  "game": "creative",
+  "language": "en",
+  "slug": "VictoriousArtsyBillPeoplesChamp",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/28018667760-offset-17538-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/28018667760-offset-17538-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/28018667760-offset-17538-preview-86x45.jpg"
+  },
+  "title": "BrianTheSub",
+  "tracking_id": "212081831",
+  "url": "https://clips.twitch.tv/VictoriousArtsyBillPeoplesChamp?tt_medium=clips_api&tt_content=url",
+  "views": 4,
+  "vod": null
+}

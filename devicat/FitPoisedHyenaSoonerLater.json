@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "31403782336",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-11-26T02:05:45Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/misspersistence",
+    "display_name": "MissPersistence",
+    "id": "26020957",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/965edabb-1e99-4829-b9e8-55b9421ac046-profile_image-150x150.png",
+    "name": "misspersistence"
+  },
+  "duration": 26,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=FitPoisedHyenaSoonerLater&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=FitPoisedHyenaSoonerLater&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "FitPoisedHyenaSoonerLater",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/31403782336-offset-18236-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/31403782336-offset-18236-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/31403782336-offset-18236-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf51\u3010Just Peachy\u3011\ud83c\udf51*:\uff65\uff9f\u2727\u3010!news\u3011",
+  "tracking_id": "349190733",
+  "url": "https://clips.twitch.tv/FitPoisedHyenaSoonerLater?tt_medium=clips_api&tt_content=url",
+  "views": 6,
+  "vod": null
+}

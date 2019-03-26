@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "32433117824",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-01-28T21:52:31Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/lizabelle",
+    "display_name": "Lizabelle",
+    "id": "263855635",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b0f4b4b-e771-42be-862d-0b09768eb4bf-profile_image-150x150.png",
+    "name": "lizabelle"
+  },
+  "duration": 26,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=LongStrangeKiwiWholeWheat&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=LongStrangeKiwiWholeWheat&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "LongStrangeKiwiWholeWheat",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/32433117824-offset-3200-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/32433117824-offset-3200-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/32433117824-offset-3200-preview-86x45.jpg"
+  },
+  "title": "AYAYAYA!",
+  "tracking_id": "388986148",
+  "url": "https://clips.twitch.tv/LongStrangeKiwiWholeWheat?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": {
+    "id": "371416734",
+    "offset": 3176,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/371416734?t=52m56s"
+  }
+}

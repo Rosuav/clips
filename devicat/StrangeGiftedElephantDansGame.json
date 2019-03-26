@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "24075129664",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2016-12-30T21:08:22Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/rebekah_chan",
+    "display_name": "rebekah_chan",
+    "id": "101712235",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/rebekah_chan-profile_image-dba091a768e2fc12-150x150.jpeg",
+    "name": "rebekah_chan"
+  },
+  "duration": 32,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=StrangeGiftedElephantDansGame&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=StrangeGiftedElephantDansGame&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "StrangeGiftedElephantDansGame",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/vod-110722401-offset-11330-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/vod-110722401-offset-11330-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/vod-110722401-offset-11330-preview-86x45.jpg"
+  },
+  "title": "Devi Reacts..",
+  "tracking_id": "9380800",
+  "url": "https://clips.twitch.tv/StrangeGiftedElephantDansGame?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": null
+}

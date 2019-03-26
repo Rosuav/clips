@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "27541418000",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-02-10T09:01:30Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/spqghetti",
+    "display_name": "spqghetti",
+    "id": "181302618",
+    "logo": "https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-150x150.jpg",
+    "name": "spqghetti"
+  },
+  "duration": 36,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=HonorableDelightfulPheasantNotLikeThis&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=HonorableDelightfulPheasantNotLikeThis&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "HonorableDelightfulPheasantNotLikeThis",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/vod-227039091-offset-1068-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/vod-227039091-offset-1068-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/vod-227039091-offset-1068-preview-86x45.jpg"
+  },
+  "title": "\u3010 \ud83d\udc99 Valentine Anime Girl \ud83d\udc99 \u3011*:\uff65\uff9f\u2727\u3010\u2728 !news \u2728\u3011",
+  "tracking_id": "190911120",
+  "url": "https://clips.twitch.tv/HonorableDelightfulPheasantNotLikeThis?tt_medium=clips_api&tt_content=url",
+  "views": 7,
+  "vod": null
+}

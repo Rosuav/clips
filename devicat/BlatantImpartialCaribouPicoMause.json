@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "32416908240",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-01-27T22:44:06Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/emilyundertale",
+    "display_name": "emilyundertale",
+    "id": "407436311",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/f135b1fb-8e24-4a6b-a980-7b2d6729400a-profile_image-150x150.jpeg",
+    "name": "emilyundertale"
+  },
+  "duration": 59.98,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=BlatantImpartialCaribouPicoMause&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=BlatantImpartialCaribouPicoMause&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "BlatantImpartialCaribouPicoMause",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C388400556-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C388400556-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C388400556-preview-86x45.jpg"
+  },
+  "title": "devi cat love",
+  "tracking_id": "388400556",
+  "url": "https://clips.twitch.tv/BlatantImpartialCaribouPicoMause?tt_medium=clips_api&tt_content=url",
+  "views": 7,
+  "vod": {
+    "id": "370929383",
+    "offset": 6228,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/370929383?t=1h43m48s"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "25383151168",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2017-05-28T21:57:11Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/behindthescenes",
+    "display_name": "BehindTheScenes",
+    "id": "109351872",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb6710eb-92fe-4200-8d9b-d0886f9421fd-profile_image-150x150.png",
+    "name": "behindthescenes"
+  },
+  "duration": 7.6,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=CrowdedObedientEyeballMikeHogu&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=CrowdedObedientEyeballMikeHogu&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "CrowdedObedientEyeballMikeHogu",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/25383151168-offset-6955-7.583333333333338-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/25383151168-offset-6955-7.583333333333338-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/25383151168-offset-6955-7.583333333333338-preview-86x45.jpg"
+  },
+  "title": "COMPLICATED",
+  "tracking_id": "82843526",
+  "url": "https://clips.twitch.tv/CrowdedObedientEyeballMikeHogu?tt_medium=clips_api&tt_content=url",
+  "views": 20,
+  "vod": null
+}

@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "32769083008",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-02-17T00:05:15Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/pinkydott",
+    "display_name": "Pinkydott",
+    "id": "158092029",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/53d49b06-40d7-435c-a195-516979af472c-profile_image-150x150.png",
+    "name": "pinkydott"
+  },
+  "duration": 28,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ConsiderateTallSalamanderDuDudu&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=ConsiderateTallSalamanderDuDudu&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "ConsiderateTallSalamanderDuDudu",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/32769083008-offset-10802-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/32769083008-offset-10802-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/32769083008-offset-10802-preview-86x45.jpg"
+  },
+  "title": "\ud83d\udc99\u3010Subaru. Hack \u3011\ud83d\udc99*:\uff65\uff9f\u2727\u3010!comichunter !giveaway !news\u3011",
+  "tracking_id": "401365475",
+  "url": "https://clips.twitch.tv/ConsiderateTallSalamanderDuDudu?tt_medium=clips_api&tt_content=url",
+  "views": 6,
+  "vod": {
+    "id": "381780860",
+    "offset": 10778,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/381780860?t=2h59m38s"
+  }
+}

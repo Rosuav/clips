@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "27315731216",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-01-19T01:11:35Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/blacksouls92",
+    "display_name": "Blacksouls92",
+    "id": "99225896",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/blacksouls92-profile_image-76d2277365231faf-150x150.png",
+    "name": "blacksouls92"
+  },
+  "duration": 40.1,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=AlertTangibleCakePrimeMe&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=AlertTangibleCakePrimeMe&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "AlertTangibleCakePrimeMe",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/179040116-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/179040116-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/179040116-preview-86x45.jpg"
+  },
+  "title": "Chii The phantom menace",
+  "tracking_id": "179040116",
+  "url": "https://clips.twitch.tv/AlertTangibleCakePrimeMe?tt_medium=clips_api&tt_content=url",
+  "views": 13,
+  "vod": null
+}

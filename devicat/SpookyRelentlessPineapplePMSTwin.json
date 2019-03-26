@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "54212603",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2017-05-07T21:28:13Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/jack_c",
+    "display_name": "Jack_C",
+    "id": "128181013",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/jack_c-profile_image-b5d53dfe00fe1e71-150x150.jpeg",
+    "name": "jack_c"
+  },
+  "duration": 32,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=SpookyRelentlessPineapplePMSTwin&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=SpookyRelentlessPineapplePMSTwin&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "SpookyRelentlessPineapplePMSTwin",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/54212603-offset-4880-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/54212603-offset-4880-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/54212603-offset-4880-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf75\u3010 Legend of Zelda Fanart - Day 4 \u3011\ud83c\udf75 \u25a0 \u3010 \ud83c\udf43 !bits !news \ud83c\udf43  \u3011 #drawing #anime",
+  "tracking_id": "75905631",
+  "url": "https://clips.twitch.tv/SpookyRelentlessPineapplePMSTwin?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": null
+}

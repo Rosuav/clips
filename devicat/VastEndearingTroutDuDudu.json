@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "25096324176",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2017-04-20T20:54:51Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/behindthescenes",
+    "display_name": "BehindTheScenes",
+    "id": "109351872",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/fb6710eb-92fe-4200-8d9b-d0886f9421fd-profile_image-150x150.png",
+    "name": "behindthescenes"
+  },
+  "duration": 10,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=VastEndearingTroutDuDudu&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=VastEndearingTroutDuDudu&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "VastEndearingTroutDuDudu",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/25096324176-offset-3003-10-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/25096324176-offset-3003-10-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/25096324176-offset-3003-10-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf75\u3010 KayPikeFashion Project - Unicorn Anime Girl \u3011\ud83c\udf75 \u25a0 \u3010 \ud83c\udf43 !news \ud83c\udf43  \u3011 #anime #kawaii #drawing #painting",
+  "tracking_id": "69745507",
+  "url": "https://clips.twitch.tv/VastEndearingTroutDuDudu?tt_medium=clips_api&tt_content=url",
+  "views": 25,
+  "vod": null
+}

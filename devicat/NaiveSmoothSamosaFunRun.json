@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33152106128",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-03-11T20:22:45Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/realpikachugamer",
+    "display_name": "realpikachugamer",
+    "id": "138854204",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/realpikachugamer-profile_image-19951841254be4f5-150x150.jpeg",
+    "name": "realpikachugamer"
+  },
+  "duration": 26,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=NaiveSmoothSamosaFunRun&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=NaiveSmoothSamosaFunRun&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "NaiveSmoothSamosaFunRun",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/33152106128-offset-1128-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/33152106128-offset-1128-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/33152106128-offset-1128-preview-86x45.jpg"
+  },
+  "title": "Rosu!!! U r such a cheeky bot!!!",
+  "tracking_id": "416415693",
+  "url": "https://clips.twitch.tv/NaiveSmoothSamosaFunRun?tt_medium=clips_api&tt_content=url",
+  "views": 10,
+  "vod": {
+    "id": "394025647",
+    "offset": 1104,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/394025647?t=18m24s"
+  }
+}

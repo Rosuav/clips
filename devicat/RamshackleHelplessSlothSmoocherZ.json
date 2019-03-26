@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "28807205776",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-05-24T01:40:52Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/boozewash",
+    "display_name": "BoozeWash",
+    "id": "41070404",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/2bb1db6f-3486-4a51-ab56-fedd32db8249-profile_image-150x150.png",
+    "name": "boozewash"
+  },
+  "duration": 33.73,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=RamshackleHelplessSlothSmoocherZ&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=RamshackleHelplessSlothSmoocherZ&tt_medium=clips_api&tt_content=embed",
+  "game": "creative",
+  "language": "en",
+  "slug": "RamshackleHelplessSlothSmoocherZ",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C244831502-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C244831502-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C244831502-preview-86x45.jpg"
+  },
+  "title": "lewd",
+  "tracking_id": "244831502",
+  "url": "https://clips.twitch.tv/RamshackleHelplessSlothSmoocherZ?tt_medium=clips_api&tt_content=url",
+  "views": 17,
+  "vod": null
+}

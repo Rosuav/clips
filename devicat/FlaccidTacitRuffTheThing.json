@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33294719104",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-03-20T22:38:34Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/outfr0st",
+    "display_name": "Outfr0st",
+    "id": "140463577",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/outfr0st-profile_image-f66bb5639ad2f521-150x150.png",
+    "name": "outfr0st"
+  },
+  "duration": 59.9,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=FlaccidTacitRuffTheThing&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=FlaccidTacitRuffTheThing&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "FlaccidTacitRuffTheThing",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C422311836-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C422311836-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C422311836-preview-86x45.jpg"
+  },
+  "title": "How to chill in life",
+  "tracking_id": "422311836",
+  "url": "https://clips.twitch.tv/FlaccidTacitRuffTheThing?tt_medium=clips_api&tt_content=url",
+  "views": 6,
+  "vod": {
+    "id": "398529101",
+    "offset": 9411,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/398529101?t=2h36m51s"
+  }
+}

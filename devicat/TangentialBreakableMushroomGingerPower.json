@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33137201424",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-03-10T23:48:50Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/orion_matrix2015",
+    "display_name": "Orion_Matrix2015",
+    "id": "73874130",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/orion_matrix2015-profile_image-935d118f3228fbc4-150x150.png",
+    "name": "orion_matrix2015"
+  },
+  "duration": 26,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=TangentialBreakableMushroomGingerPower&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=TangentialBreakableMushroomGingerPower&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "TangentialBreakableMushroomGingerPower",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/33137201424-offset-13194-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/33137201424-offset-13194-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/33137201424-offset-13194-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf40\u3010Kotori - Love Live\u3011\ud83c\udf40*:\uff65\uff9f\u2727\u3010!con !news\u3011",
+  "tracking_id": "415940580",
+  "url": "https://clips.twitch.tv/TangentialBreakableMushroomGingerPower?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": {
+    "id": "393557791",
+    "offset": 13168,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/393557791?t=3h39m28s"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "24694819200",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2017-03-04T22:14:27Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/ciri_ion",
+    "display_name": "Ciri_Ion",
+    "id": "48972954",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/ciri_ion-profile_image-40d9e4faf3014800-150x150.png",
+    "name": "ciri_ion"
+  },
+  "duration": 32,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=SolidGrotesqueFrogSoBayed&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=SolidGrotesqueFrogSoBayed&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "SolidGrotesqueFrogSoBayed",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/24694819200-offset-4120-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/24694819200-offset-4120-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/24694819200-offset-4120-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf75\u3010 Fauna Anime Girl | Chill Stream  \u3011\ud83c\udf75 \u25a0 \u3010 \ud83c\udf61 !contest !news !subgoal \ud83c\udf61 \u3011 #drawing  #anime",
+  "tracking_id": "55150771",
+  "url": "https://clips.twitch.tv/SolidGrotesqueFrogSoBayed?tt_medium=clips_api&tt_content=url",
+  "views": 15,
+  "vod": null
+}

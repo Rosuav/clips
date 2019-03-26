@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "54212603",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2016-12-31T23:43:27Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/rebekah_chan",
+    "display_name": "rebekah_chan",
+    "id": "101712235",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/rebekah_chan-profile_image-dba091a768e2fc12-150x150.jpeg",
+    "name": "rebekah_chan"
+  },
+  "duration": 32,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=AssiduousScrumptiousJackalAMPEnergyCherry&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=AssiduousScrumptiousJackalAMPEnergyCherry&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "AssiduousScrumptiousJackalAMPEnergyCherry",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/54212603-offset-9712-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/54212603-offset-9712-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/54212603-offset-9712-preview-86x45.jpg"
+  },
+  "title": "Spotted a Raptor",
+  "tracking_id": "9128527",
+  "url": "https://clips.twitch.tv/AssiduousScrumptiousJackalAMPEnergyCherry?tt_medium=clips_api&tt_content=url",
+  "views": 9,
+  "vod": null
+}

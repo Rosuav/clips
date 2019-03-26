@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "28258301280",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-04-09T03:37:44Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/hatsunemiku6458",
+    "display_name": "HatsuneMiku6458",
+    "id": "55981853",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/927d7bbd-d744-4aee-b729-96e3b328e0f0-profile_image-150x150.jpeg",
+    "name": "hatsunemiku6458"
+  },
+  "duration": 60,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=BombasticColdSmoothieAMPEnergyCherry&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=BombasticColdSmoothieAMPEnergyCherry&tt_medium=clips_api&tt_content=embed",
+  "game": "creative",
+  "language": "en",
+  "slug": "BombasticColdSmoothieAMPEnergyCherry",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/221974350-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/221974350-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/221974350-preview-86x45.jpg"
+  },
+  "title": "Wut? I Won? OMG! YAY!",
+  "tracking_id": "221974350",
+  "url": "https://clips.twitch.tv/BombasticColdSmoothieAMPEnergyCherry?tt_medium=clips_api&tt_content=url",
+  "views": 11,
+  "vod": null
+}

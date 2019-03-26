@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33250472672",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-03-18T00:08:10Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/blacksouls92",
+    "display_name": "Blacksouls92",
+    "id": "99225896",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/blacksouls92-profile_image-76d2277365231faf-150x150.png",
+    "name": "blacksouls92"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=HedonisticOilyPuddingOneHand&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=HedonisticOilyPuddingOneHand&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "HedonisticOilyPuddingOneHand",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/33250472672-offset-14582-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/33250472672-offset-14582-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/33250472672-offset-14582-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf08\u2618\ufe0f\u3010Happy St. Paddy's\u3011\u2618\ufe0f\ud83c\udf08*:\uff65\uff9f\u2727\u3010!con !news\u3011",
+  "tracking_id": "420575676",
+  "url": "https://clips.twitch.tv/HedonisticOilyPuddingOneHand?tt_medium=clips_api&tt_content=url",
+  "views": 6,
+  "vod": {
+    "id": "397112225",
+    "offset": 14558,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/397112225?t=4h2m38s"
+  }
+}

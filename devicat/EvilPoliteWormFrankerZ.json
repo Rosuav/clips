@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "27931772912",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-03-14T21:35:56Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/beagoddess",
+    "display_name": "BeaGoddess",
+    "id": "89326631",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/bf2bcc23-f77f-425f-8488-6717551f5b3b-profile_image-150x150.jpg",
+    "name": "beagoddess"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=EvilPoliteWormFrankerZ&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=EvilPoliteWormFrankerZ&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "EvilPoliteWormFrankerZ",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/27931772912-offset-7428-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/27931772912-offset-7428-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/27931772912-offset-7428-preview-86x45.jpg"
+  },
+  "title": "\ud83d\udc99\u3010 !CHARITY | Front Page | 1000 Dreams Fund \u3011\ud83d\udc99*:\uff65\uff9f\u2727\u3010 \u2728 CardCaptor Sakura Clear Card \u2728 \u3011",
+  "tracking_id": "208200153",
+  "url": "https://clips.twitch.tv/EvilPoliteWormFrankerZ?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": null
+}

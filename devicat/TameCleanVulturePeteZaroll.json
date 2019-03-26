@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33021715712",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-03-03T23:35:53Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/blacksouls92",
+    "display_name": "Blacksouls92",
+    "id": "99225896",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/blacksouls92-profile_image-76d2277365231faf-150x150.png",
+    "name": "blacksouls92"
+  },
+  "duration": 26,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=TameCleanVulturePeteZaroll&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=TameCleanVulturePeteZaroll&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "TameCleanVulturePeteZaroll",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/33021715712-offset-9154-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/33021715712-offset-9154-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/33021715712-offset-9154-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf08\u3010Rainbow Girl\u3011\ud83c\udf08*:\uff65\uff9f\u2727\u3010!con !emotes !news\u3011",
+  "tracking_id": "411528884",
+  "url": "https://clips.twitch.tv/TameCleanVulturePeteZaroll?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": {
+    "id": "389894440",
+    "offset": 9128,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/389894440?t=2h32m8s"
+  }
+}

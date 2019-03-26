@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "27764139280",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-02-28T23:28:56Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/marsuwu",
+    "display_name": "marsuwu",
+    "id": "128489821",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b616ba3b-d8ea-44aa-9251-2a01f034f9fc-profile_image-150x150.jpeg",
+    "name": "marsuwu"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=BrightIronicGooseSaltBae&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=BrightIronicGooseSaltBae&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "BrightIronicGooseSaltBae",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/27764139280-offset-8914-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/27764139280-offset-8914-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/27764139280-offset-8914-preview-86x45.jpg"
+  },
+  "title": "\u3010 \u2728 Chill & Draw - Reimu Touhou Fanart \u2728 \u3011*:\uff65\uff9f\u2727\u3010 \u2728 Road to 10k Follows! \u2728 \u3011",
+  "tracking_id": "200722357",
+  "url": "https://clips.twitch.tv/BrightIronicGooseSaltBae?tt_medium=clips_api&tt_content=url",
+  "views": 6,
+  "vod": null
+}

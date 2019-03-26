@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "23110922352",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2016-09-08T01:27:31Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/orion_matrix2015",
+    "display_name": "Orion_Matrix2015",
+    "id": "73874130",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/orion_matrix2015-profile_image-935d118f3228fbc4-150x150.png",
+    "name": "orion_matrix2015"
+  },
+  "duration": 32,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ProductiveSpinelessTrollSaltBae&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=ProductiveSpinelessTrollSaltBae&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "ProductiveSpinelessTrollSaltBae",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/vod-88148250-offset-354-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/vod-88148250-offset-354-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/vod-88148250-offset-354-preview-86x45.jpg"
+  },
+  "title": "\u25a0 \u3010 Sub Hype - Marshmallow Madness! | Alice - Madness Returns \u3011\u25a0 \u3010 !sub !patreon \u3011 #anime #drawing #digitalillustration #painting",
+  "tracking_id": "31598625",
+  "url": "https://clips.twitch.tv/ProductiveSpinelessTrollSaltBae?tt_medium=clips_api&tt_content=url",
+  "views": 13,
+  "vod": null
+}

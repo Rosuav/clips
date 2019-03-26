@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33196789888",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-03-15T00:09:55Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/kuri0uskitteh",
+    "display_name": "Kuri0usKitteh",
+    "id": "59405093",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/9a0e0389-6af3-4865-a070-52dfbe8fd60a-profile_image-150x150.jpeg",
+    "name": "kuri0uskitteh"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ClearDeliciousCourgetteANELE&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=ClearDeliciousCourgetteANELE&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "ClearDeliciousCourgetteANELE",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/vod-395489825-offset-14774-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/vod-395489825-offset-14774-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/vod-395489825-offset-14774-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf40\u3010Kotori - Love Live\u3011\ud83c\udf40*:\uff65\uff9f\u2727\u3010!con !news\u3011",
+  "tracking_id": "418432622",
+  "url": "https://clips.twitch.tv/ClearDeliciousCourgetteANELE?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": {
+    "id": "395489825",
+    "offset": 14750,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/395489825?t=4h5m50s"
+  }
+}

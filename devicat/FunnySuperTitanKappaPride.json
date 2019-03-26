@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "29078487456",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-06-13T22:50:09Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/silentlilac",
+    "display_name": "SilentLilac",
+    "id": "96065689",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/20317a75-69de-40b2-8a65-847961c71b31-profile_image-150x150.jpg",
+    "name": "silentlilac"
+  },
+  "duration": 31.4,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=FunnySuperTitanKappaPride&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=FunnySuperTitanKappaPride&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "FunnySuperTitanKappaPride",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C256102830-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C256102830-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C256102830-preview-86x45.jpg"
+  },
+  "title": "SNORT! ",
+  "tracking_id": "256102830",
+  "url": "https://clips.twitch.tv/FunnySuperTitanKappaPride?tt_medium=clips_api&tt_content=url",
+  "views": 10,
+  "vod": null
+}
