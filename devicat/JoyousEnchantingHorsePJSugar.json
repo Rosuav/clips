@@ -30,10 +30,5 @@
   "tracking_id": "406105635",
   "url": "https://clips.twitch.tv/JoyousEnchantingHorsePJSugar?tt_medium=clips_api&tt_content=url",
   "views": 10,
-  "vod": {
-    "id": "385601967",
-    "offset": 6030,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/385601967?t=1h40m30s"
-  }
+  "vod": null
 }

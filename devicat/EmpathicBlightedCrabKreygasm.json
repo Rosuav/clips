@@ -30,10 +30,5 @@
   "tracking_id": "390966322",
   "url": "https://clips.twitch.tv/EmpathicBlightedCrabKreygasm?tt_medium=clips_api&tt_content=url",
   "views": 10,
-  "vod": {
-    "id": "373042943",
-    "offset": 12478,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/373042943?t=3h27m58s"
-  }
+  "vod": null
 }

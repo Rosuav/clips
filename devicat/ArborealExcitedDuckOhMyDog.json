@@ -30,10 +30,5 @@
   "tracking_id": "390242803",
   "url": "https://clips.twitch.tv/ArborealExcitedDuckOhMyDog?tt_medium=clips_api&tt_content=url",
   "views": 4,
-  "vod": {
-    "id": "372508966",
-    "offset": 4294,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/372508966?t=1h11m34s"
-  }
+  "vod": null
 }

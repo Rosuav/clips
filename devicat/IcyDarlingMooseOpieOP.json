@@ -30,10 +30,5 @@
   "tracking_id": "395204917",
   "url": "https://clips.twitch.tv/IcyDarlingMooseOpieOP?tt_medium=clips_api&tt_content=url",
   "views": 5,
-  "vod": {
-    "id": "376233815",
-    "offset": 15032,
-    "preview_image_url": "https://static-cdn.jtvnw.net/s3_vods/01ebeb29bfd34cecf334_devicat_32590654272_1105541323/thumb/thumb0-320x240.jpg",
-    "url": "https://www.twitch.tv/videos/376233815?t=4h10m32s"
-  }
+  "vod": null
 }

@@ -30,10 +30,5 @@
   "tracking_id": "397992007",
   "url": "https://clips.twitch.tv/SolidAssiduousOcelotPJSugar?tt_medium=clips_api&tt_content=url",
   "views": 23,
-  "vod": {
-    "id": "379099759",
-    "offset": 2894,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/379099759?t=48m14s"
-  }
+  "vod": null
 }

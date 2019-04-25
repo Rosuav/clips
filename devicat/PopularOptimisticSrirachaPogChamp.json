@@ -12,7 +12,7 @@
     "channel_url": "https://www.twitch.tv/chasi_naca",
     "display_name": "Chasi_naca",
     "id": "137243755",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b71311e-92de-4738-84ef-6150c6076988-profile_image-150x150.jpg",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8abf0ec7-6d51-403c-b115-e0dc49eaac1a-profile_image-150x150.png",
     "name": "chasi_naca"
   },
   "duration": 30.38,
@@ -29,11 +29,6 @@
   "title": "Fast Bouncy Emotes!!!",
   "tracking_id": "406253541",
   "url": "https://clips.twitch.tv/PopularOptimisticSrirachaPogChamp?tt_medium=clips_api&tt_content=url",
-  "views": 5,
-  "vod": {
-    "id": "385601967",
-    "offset": 17879,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/385601967?t=4h57m59s"
-  }
+  "views": 6,
+  "vod": null
 }

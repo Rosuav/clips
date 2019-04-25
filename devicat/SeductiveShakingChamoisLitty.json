@@ -30,10 +30,5 @@
   "tracking_id": "390968560",
   "url": "https://clips.twitch.tv/SeductiveShakingChamoisLitty?tt_medium=clips_api&tt_content=url",
   "views": 13,
-  "vod": {
-    "id": "373042943",
-    "offset": 12736,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/373042943?t=3h32m16s"
-  }
+  "vod": null
 }

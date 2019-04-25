@@ -9,11 +9,11 @@
   },
   "created_at": "2018-01-15T00:31:46Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/yohiyo_karli",
-    "display_name": "yohiyo_karli",
+    "channel_url": "https://www.twitch.tv/disolveee",
+    "display_name": "disolveee",
     "id": "136610042",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/c744ab4e-e32d-42a7-b5e1-52de0ee6be2c-profile_image-150x150.jpg",
-    "name": "yohiyo_karli"
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/fe1477d6-cd4d-4a52-ae50-b5b573edbe06-profile_image-150x150.png",
+    "name": "disolveee"
   },
   "duration": 30,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=OutstandingDeadMarjoramChocolateRain&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",

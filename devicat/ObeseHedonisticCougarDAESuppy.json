@@ -30,10 +30,5 @@
   "tracking_id": "406170035",
   "url": "https://clips.twitch.tv/ObeseHedonisticCougarDAESuppy?tt_medium=clips_api&tt_content=url",
   "views": 6,
-  "vod": {
-    "id": "385601967",
-    "offset": 12050,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/385601967?t=3h20m50s"
-  }
+  "vod": null
 }

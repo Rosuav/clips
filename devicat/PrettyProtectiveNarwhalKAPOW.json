@@ -9,11 +9,11 @@
   },
   "created_at": "2016-12-28T00:20:04Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/lil_donut_",
-    "display_name": "Lil_Donut_",
+    "channel_url": "https://www.twitch.tv/donutchu_",
+    "display_name": "DonutChu_",
     "id": "142532089",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e5c79b4-c80c-484f-a190-d6bc064ef2fe-profile_image-150x150.jpg",
-    "name": "lil_donut_"
+    "name": "donutchu_"
   },
   "duration": 32,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=PrettyProtectiveNarwhalKAPOW&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",

@@ -30,10 +30,5 @@
   "tracking_id": "392337455",
   "url": "https://clips.twitch.tv/VictoriousBloodyElephant4Head?tt_medium=clips_api&tt_content=url",
   "views": 5,
-  "vod": {
-    "id": "374178236",
-    "offset": 12623,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/374178236?t=3h30m23s"
-  }
+  "vod": null
 }

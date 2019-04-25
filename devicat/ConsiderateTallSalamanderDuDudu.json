@@ -30,10 +30,5 @@
   "tracking_id": "401365475",
   "url": "https://clips.twitch.tv/ConsiderateTallSalamanderDuDudu?tt_medium=clips_api&tt_content=url",
   "views": 6,
-  "vod": {
-    "id": "381780860",
-    "offset": 10778,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/381780860?t=2h59m38s"
-  }
+  "vod": null
 }
