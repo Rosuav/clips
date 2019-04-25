@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33641913808",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-04-11T21:50:43Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/realpikachugamer",
+    "display_name": "realpikachugamer",
+    "id": "138854204",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/realpikachugamer-profile_image-19951841254be4f5-150x150.jpeg",
+    "name": "realpikachugamer"
+  },
+  "duration": 36.5,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=HungryPiercingBorkFunRun&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=HungryPiercingBorkFunRun&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "HungryPiercingBorkFunRun",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C436275694-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C436275694-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C436275694-preview-86x45.jpg"
+  },
+  "title": "Illonej Sub Jam!!! Push that jam with that booty!!!",
+  "tracking_id": "436275694",
+  "url": "https://clips.twitch.tv/HungryPiercingBorkFunRun?tt_medium=clips_api&tt_content=url",
+  "views": 7,
+  "vod": {
+    "id": "409589856",
+    "offset": 6519,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/409589856?t=1h48m39s"
+  }
+}

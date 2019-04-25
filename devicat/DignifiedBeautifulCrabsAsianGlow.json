@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33692958160",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-04-14T22:32:38Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/lizabelle",
+    "display_name": "Lizabelle",
+    "id": "263855635",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e605990-9d98-4833-8415-374cbf0725a2-profile_image-150x150.png",
+    "name": "lizabelle"
+  },
+  "duration": 26.7,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=DignifiedBeautifulCrabsAsianGlow&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=DignifiedBeautifulCrabsAsianGlow&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "DignifiedBeautifulCrabsAsianGlow",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C438475752-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C438475752-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C438475752-preview-86x45.jpg"
+  },
+  "title": "that's me! LUL ",
+  "tracking_id": "438475752",
+  "url": "https://clips.twitch.tv/DignifiedBeautifulCrabsAsianGlow?tt_medium=clips_api&tt_content=url",
+  "views": 4,
+  "vod": {
+    "id": "411152907",
+    "offset": 8838,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/411152907?t=2h27m18s"
+  }
+}

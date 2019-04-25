@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33586115584",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-04-08T01:10:16Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/wolfyarts_123",
+    "display_name": "wolfyarts_123",
+    "id": "428149639",
+    "logo": "https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-150x150.jpg",
+    "name": "wolfyarts_123"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ReliableAuspiciousCormorantKappaRoss&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=ReliableAuspiciousCormorantKappaRoss&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "ReliableAuspiciousCormorantKappaRoss",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/33586115584-offset-18526-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/33586115584-offset-18526-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/33586115584-offset-18526-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf38\u3010 Hello! (\u25cf\u00b4\u03c9\uff40\u25cf)\u3011\ud83c\udf38*:\uff65\uff9f\u2727\u3010!news\u3011",
+  "tracking_id": "434026093",
+  "url": "https://clips.twitch.tv/ReliableAuspiciousCormorantKappaRoss?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": {
+    "id": "407732773",
+    "offset": 18502,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/407732773?t=5h8m22s"
+  }
+}

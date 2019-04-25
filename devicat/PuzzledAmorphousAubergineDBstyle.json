@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33641913808",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-04-11T21:50:41Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/kandyscreations",
+    "display_name": "KandysCreations",
+    "id": "164876593",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/677ecf03-7b18-4293-8931-4cb226808cfe-profile_image-150x150.png",
+    "name": "kandyscreations"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=PuzzledAmorphousAubergineDBstyle&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=PuzzledAmorphousAubergineDBstyle&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "PuzzledAmorphousAubergineDBstyle",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/33641913808-offset-6542-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/33641913808-offset-6542-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/33641913808-offset-6542-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf80\u3010 Pompoji Art Contest \u3011\ud83c\udf80*:\uff65\uff9f\u2727\u3010!news\u3011",
+  "tracking_id": "436275649",
+  "url": "https://clips.twitch.tv/PuzzledAmorphousAubergineDBstyle?tt_medium=clips_api&tt_content=url",
+  "views": 4,
+  "vod": {
+    "id": "409589856",
+    "offset": 6518,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/409589856?t=1h48m38s"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "33568383824",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-04-07T00:19:05Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/boozewash",
+    "display_name": "BoozeWash",
+    "id": "41070404",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/2bb1db6f-3486-4a51-ab56-fedd32db8249-profile_image-150x150.png",
+    "name": "boozewash"
+  },
+  "duration": 13.2,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=PlausiblePluckyBaguetteMau5&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=PlausiblePluckyBaguetteMau5&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "PlausiblePluckyBaguetteMau5",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C433316058-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C433316058-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C433316058-preview-86x45.jpg"
+  },
+  "title": "rainbow girl",
+  "tracking_id": "433316058",
+  "url": "https://clips.twitch.tv/PlausiblePluckyBaguetteMau5?tt_medium=clips_api&tt_content=url",
+  "views": 11,
+  "vod": {
+    "id": "407197710",
+    "offset": 15271,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/407197710?t=4h14m31s"
+  }
+}
