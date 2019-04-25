@@ -8,7 +8,12 @@ int main(int argc, array(string) argv)
 	array mp4 = glob("*.mp4", files)[*] - ".mp4";
 	json -= mp4;
 	write("%d clips to download.\n", sizeof(json));
-	if (has_value(argv, "--simulate")) return 0;
+	if (has_value(argv, "--simulate"))
+	{
+		foreach (json, string slug)
+			write("%s: %s\n", slug, string_to_utf8(Standards.JSON.decode_utf8(Stdio.read_file(sprintf("%s/%s.json", argv[1], slug)))->title));
+		return 0;
+	}
 	while (sizeof(json))
 	{
 		string slug = random(json);
