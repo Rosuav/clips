@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "35004854064",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-07-22T23:03:32Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/jack_c",
+    "display_name": "Jack_C",
+    "id": "128181013",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8fce0af4-77eb-456f-af14-d58939eeea60-profile_image-150x150.png",
+    "name": "jack_c"
+  },
+  "duration": 26,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=DignifiedHungrySpindleBuddhaBar&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=DignifiedHungrySpindleBuddhaBar&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "DignifiedHungrySpindleBuddhaBar",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/35004854064-offset-10876-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/35004854064-offset-10876-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/35004854064-offset-10876-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf6d Harajuku Girl \ud83c\udf6d*:\uff65\uff9f\u2727 !move",
+  "tracking_id": "499890233",
+  "url": "https://clips.twitch.tv/DignifiedHungrySpindleBuddhaBar?tt_medium=clips_api&tt_content=url",
+  "views": 6,
+  "vod": {
+    "id": "456508234",
+    "offset": 10852,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/456508234?t=3h0m52s"
+  }
+}

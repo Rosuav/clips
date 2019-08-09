@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "29731019280",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-08-02T19:44:02Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/piercethrill_",
+    "display_name": "PierceThrill_",
+    "id": "157927114",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd97c6f2-94ed-4e3e-aa13-be5cddd53469-profile_image-150x150.png",
+    "name": "piercethrill_"
+  },
+  "duration": 36,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=AntsyComfortablePineappleResidentSleeper&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=AntsyComfortablePineappleResidentSleeper&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "AntsyComfortablePineappleResidentSleeper",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/vod-291921707-offset-3344-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/vod-291921707-offset-3344-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/vod-291921707-offset-3344-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf6c\ud83c\udf6d\u3010 Candy Carnival - OC Anime Girl \u3011\ud83c\udf6d\ud83c\udf6c*:\uff65\uff9f\u2727\u3010 !news \u3011 #devicat #anime ",
+  "tracking_id": "283336910",
+  "url": "https://clips.twitch.tv/AntsyComfortablePineappleResidentSleeper?tt_medium=clips_api&tt_content=url",
+  "views": 7,
+  "vod": null
+}

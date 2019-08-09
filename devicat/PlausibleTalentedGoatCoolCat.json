@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "30780559712",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-10-15T00:21:47Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/xxdanikaxx",
+    "display_name": "xxdanikaxx",
+    "id": "266946053",
+    "logo": "https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-150x150.jpg",
+    "name": "xxdanikaxx"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=PlausibleTalentedGoatCoolCat&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=PlausibleTalentedGoatCoolCat&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "PlausibleTalentedGoatCoolCat",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/30780559712-offset-15458-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/30780559712-offset-15458-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/30780559712-offset-15458-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf83\ud83c\udf1f\u3010Maki - Love Live\u3011\ud83c\udf1f\ud83c\udf83*:\uff65\uff9f\u2727\u3010!news\u3011",
+  "tracking_id": "325943485",
+  "url": "https://clips.twitch.tv/PlausibleTalentedGoatCoolCat?tt_medium=clips_api&tt_content=url",
+  "views": 11,
+  "vod": null
+}

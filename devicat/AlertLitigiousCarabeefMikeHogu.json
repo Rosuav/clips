@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "35004854064",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-07-23T00:29:21Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/mcfreshness2",
+    "display_name": "mcfreshness2",
+    "id": "92543102",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fbae2c8-3f8d-4d06-bf2b-c9570ce77403-profile_image-150x150.png",
+    "name": "mcfreshness2"
+  },
+  "duration": 38.5,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=AlertLitigiousCarabeefMikeHogu&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=AlertLitigiousCarabeefMikeHogu&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "AlertLitigiousCarabeefMikeHogu",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C499935586-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C499935586-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C499935586-preview-86x45.jpg"
+  },
+  "title": "Silly Siblings",
+  "tracking_id": "499935586",
+  "url": "https://clips.twitch.tv/AlertLitigiousCarabeefMikeHogu?tt_medium=clips_api&tt_content=url",
+  "views": 14,
+  "vod": {
+    "id": "456508234",
+    "offset": 15984,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/456508234?t=4h26m24s"
+  }
+}

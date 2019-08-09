@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "34544415424",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-06-15T22:33:07Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/rosuav",
+    "display_name": "Rosuav",
+    "id": "49497888",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/rosuav-profile_image-8140531f648e597a-150x150.jpeg",
+    "name": "rosuav"
+  },
+  "duration": 22.89,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=EphemeralSweetKimchiBrainSlug&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=EphemeralSweetKimchiBrainSlug&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "EphemeralSweetKimchiBrainSlug",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C477132146-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C477132146-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C477132146-preview-86x45.jpg"
+  },
+  "title": "Gotta exaggerate those... HAHAHAHAHAHAHA *cue the utter depression*",
+  "tracking_id": "477132146",
+  "url": "https://clips.twitch.tv/EphemeralSweetKimchiBrainSlug?tt_medium=clips_api&tt_content=url",
+  "views": 14,
+  "vod": {
+    "id": "439560680",
+    "offset": 9025,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/439560680?t=2h30m25s"
+  }
+}

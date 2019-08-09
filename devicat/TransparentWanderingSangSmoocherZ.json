@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "35065491760",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-07-27T23:14:36Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/aaroninthehouse",
+    "display_name": "aaroninthehouse",
+    "id": "119014486",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/aaroninthehouse-profile_image-b66a04c889eda8db-150x150.jpeg",
+    "name": "aaroninthehouse"
+  },
+  "duration": 30,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=TransparentWanderingSangSmoocherZ&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=TransparentWanderingSangSmoocherZ&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "TransparentWanderingSangSmoocherZ",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/35065491760-offset-11548-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/35065491760-offset-11548-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/35065491760-offset-11548-preview-86x45.jpg"
+  },
+  "title": "\ud83d\udc3c Sketching Bahroo Contest Entry\ud83d\udc3c*:\uff65\uff9f\u2727 !move",
+  "tracking_id": "503095095",
+  "url": "https://clips.twitch.tv/TransparentWanderingSangSmoocherZ?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": {
+    "id": "458811787",
+    "offset": 11524,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/458811787?t=3h12m4s"
+  }
+}

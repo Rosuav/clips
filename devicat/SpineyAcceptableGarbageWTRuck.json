@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "29790699552",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2018-08-05T22:43:22Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/heartsome_nana",
+    "display_name": "Heartsome_NaNa",
+    "id": "129181205",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/d44e3864-8991-4b84-a68b-771fc83807e8-profile_image-150x150.png",
+    "name": "heartsome_nana"
+  },
+  "duration": 28,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=SpineyAcceptableGarbageWTRuck&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=SpineyAcceptableGarbageWTRuck&tt_medium=clips_api&tt_content=embed",
+  "game": "Creative",
+  "language": "en",
+  "slug": "SpineyAcceptableGarbageWTRuck",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/29790699552-offset-9484-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/29790699552-offset-9484-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/29790699552-offset-9484-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf6c\ud83c\udf6d\u3010 Candy Carnival - OC Anime Girl \u3011\ud83c\udf6d\ud83c\udf6c*:\uff65\uff9f\u2727",
+  "tracking_id": "285279486",
+  "url": "https://clips.twitch.tv/SpineyAcceptableGarbageWTRuck?tt_medium=clips_api&tt_content=url",
+  "views": 9,
+  "vod": null
+}

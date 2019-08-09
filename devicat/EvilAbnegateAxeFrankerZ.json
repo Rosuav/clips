@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "34770484176",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-07-03T23:39:00Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/realpikachugamer",
+    "display_name": "realpikachugamer",
+    "id": "138854204",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c5bb87d-2cc0-41e5-8732-a5539d80f7e3-profile_image-150x150.png",
+    "name": "realpikachugamer"
+  },
+  "duration": 28,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=EvilAbnegateAxeFrankerZ&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=EvilAbnegateAxeFrankerZ&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "EvilAbnegateAxeFrankerZ",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/34770484176-offset-1870-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/34770484176-offset-1870-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/34770484176-offset-1870-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf08 I'm Back! \ud83c\udf08*:\uff65\uff9f\u2727 ",
+  "tracking_id": "488341408",
+  "url": "https://clips.twitch.tv/EvilAbnegateAxeFrankerZ?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": {
+    "id": "447910181",
+    "offset": 1871,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/447910181?t=31m11s"
+  }
+}

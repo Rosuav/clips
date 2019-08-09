@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "34481147072",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-06-11T02:03:21Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/gustopherj",
+    "display_name": "GustopherJ",
+    "id": "176095362",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/9219817a-9388-4208-b682-4c84a0971a16-profile_image-150x150.png",
+    "name": "gustopherj"
+  },
+  "duration": 39.4,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=PrettyFilthyEggBibleThump&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=PrettyFilthyEggBibleThump&tt_medium=clips_api&tt_content=embed",
+  "game": "Special Events",
+  "language": "en",
+  "slug": "PrettyFilthyEggBibleThump",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C474268836-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C474268836-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C474268836-preview-86x45.jpg"
+  },
+  "title": "8 remake?",
+  "tracking_id": "474268836",
+  "url": "https://clips.twitch.tv/PrettyFilthyEggBibleThump?tt_medium=clips_api&tt_content=url",
+  "views": 9,
+  "vod": {
+    "id": "437238293",
+    "offset": 21499,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/437238293?t=5h58m19s"
+  }
+}
