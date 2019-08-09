@@ -9,11 +9,11 @@
   },
   "created_at": "2017-07-16T22:09:36Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/gxdgump",
-    "display_name": "gxdgump",
+    "channel_url": "https://www.twitch.tv/slarpo",
+    "display_name": "slarpo",
     "id": "135528447",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6ab521df-4a27-4798-95b2-a797c1a67507-profile_image-150x150.png",
-    "name": "gxdgump"
+    "name": "slarpo"
   },
   "duration": 30,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ManlyBoredSalmonDuDudu&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",

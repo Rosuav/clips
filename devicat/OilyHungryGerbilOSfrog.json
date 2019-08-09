@@ -9,11 +9,11 @@
   },
   "created_at": "2017-03-10T00:21:35Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/mrbrainpain_",
-    "display_name": "MrBrainPain_",
+    "channel_url": "https://www.twitch.tv/mrbrainpain",
+    "display_name": "MrBrainPain",
     "id": "96471792",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/d6fe33b7-54b6-4916-8c6f-a5487aba70b8-profile_image-150x150.png",
-    "name": "mrbrainpain_"
+    "name": "mrbrainpain"
   },
   "duration": 32,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=OilyHungryGerbilOSfrog&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",

@@ -30,10 +30,5 @@
   "tracking_id": "412136649",
   "url": "https://clips.twitch.tv/AnnoyingBlindingCheetahDoritosChip?tt_medium=clips_api&tt_content=url",
   "views": 11,
-  "vod": {
-    "id": "390392706",
-    "offset": 10112,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/390392706?t=2h48m32s"
-  }
+  "vod": null
 }

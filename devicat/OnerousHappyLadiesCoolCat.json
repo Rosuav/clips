@@ -12,7 +12,7 @@
     "channel_url": "https://www.twitch.tv/realpikachugamer",
     "display_name": "realpikachugamer",
     "id": "138854204",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/realpikachugamer-profile_image-19951841254be4f5-150x150.jpeg",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c5bb87d-2cc0-41e5-8732-a5539d80f7e3-profile_image-150x150.png",
     "name": "realpikachugamer"
   },
   "duration": 59.9,
@@ -29,11 +29,6 @@
   "title": "Too cool, Devi!!! Cool and cute!!! devicatAWW devicatCOOL",
   "tracking_id": "427407416",
   "url": "https://clips.twitch.tv/OnerousHappyLadiesCoolCat?tt_medium=clips_api&tt_content=url",
-  "views": 7,
-  "vod": {
-    "id": "402617525",
-    "offset": 1390,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/402617525?t=23m10s"
-  }
+  "views": 16,
+  "vod": null
 }

@@ -29,11 +29,6 @@
   "title": "\ud83c\udf6d\u3010Hello (\u25cf\u00b4\u03c9\uff40\u25cf)\u3011\ud83c\udf6d*:\uff65\uff9f\u2727\u3010!con !news\u3011",
   "tracking_id": "425600137",
   "url": "https://clips.twitch.tv/UgliestCrowdedWeaselHumbleLife?tt_medium=clips_api&tt_content=url",
-  "views": 7,
-  "vod": {
-    "id": "401138208",
-    "offset": 2854,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/401138208?t=47m34s"
-  }
+  "views": 11,
+  "vod": null
 }

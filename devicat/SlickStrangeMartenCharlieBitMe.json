@@ -9,11 +9,11 @@
   },
   "created_at": "2016-12-11T01:41:52Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/anyathecosplayah",
-    "display_name": "AnyaTheCosplayah",
+    "channel_url": "https://www.twitch.tv/anyathecosplayer",
+    "display_name": "AnyaTheCosplayer",
     "id": "138464214",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/712bd5de-473e-4a2c-9698-bdc53f83304e-profile_image-150x150.png",
-    "name": "anyathecosplayah"
+    "name": "anyathecosplayer"
   },
   "duration": 32,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=SlickStrangeMartenCharlieBitMe&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",

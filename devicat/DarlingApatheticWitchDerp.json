@@ -29,11 +29,6 @@
   "title": "Spider Nixxon",
   "tracking_id": "419795712",
   "url": "https://clips.twitch.tv/DarlingApatheticWitchDerp?tt_medium=clips_api&tt_content=url",
-  "views": 13,
-  "vod": {
-    "id": "396553766",
-    "offset": 16300,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/396553766?t=4h31m40s"
-  }
+  "views": 14,
+  "vod": null
 }

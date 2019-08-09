@@ -12,7 +12,7 @@
     "channel_url": "https://www.twitch.tv/lizabelle",
     "display_name": "Lizabelle",
     "id": "263855635",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/2e605990-9d98-4833-8415-374cbf0725a2-profile_image-150x150.png",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/80f0f80b-cc9a-4203-9c41-08893ec4aaa2-profile_image-150x150.png",
     "name": "lizabelle"
   },
   "duration": 26.7,
@@ -29,11 +29,6 @@
   "title": "that's me! LUL ",
   "tracking_id": "438475752",
   "url": "https://clips.twitch.tv/DignifiedBeautifulCrabsAsianGlow?tt_medium=clips_api&tt_content=url",
-  "views": 4,
-  "vod": {
-    "id": "411152907",
-    "offset": 8838,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/411152907?t=2h27m18s"
-  }
+  "views": 5,
+  "vod": null
 }

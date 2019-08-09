@@ -12,7 +12,7 @@
     "channel_url": "https://www.twitch.tv/realpikachugamer",
     "display_name": "realpikachugamer",
     "id": "138854204",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/realpikachugamer-profile_image-19951841254be4f5-150x150.jpeg",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c5bb87d-2cc0-41e5-8732-a5539d80f7e3-profile_image-150x150.png",
     "name": "realpikachugamer"
   },
   "duration": 59.99,
@@ -29,11 +29,6 @@
   "title": "Rosu!!! U cheeky cheeky robot!!!",
   "tracking_id": "415237249",
   "url": "https://clips.twitch.tv/MistyWittyJayPeteZaroll?tt_medium=clips_api&tt_content=url",
-  "views": 19,
-  "vod": {
-    "id": "392998166",
-    "offset": 12132,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/392998166?t=3h22m12s"
-  }
+  "views": 24,
+  "vod": null
 }

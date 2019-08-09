@@ -30,10 +30,5 @@
   "tracking_id": "413238385",
   "url": "https://clips.twitch.tv/MagnificentTangentialKangarooSquadGoals?tt_medium=clips_api&tt_content=url",
   "views": 5,
-  "vod": {
-    "id": "391394333",
-    "offset": 218,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/391394333?t=3m38s"
-  }
+  "vod": null
 }

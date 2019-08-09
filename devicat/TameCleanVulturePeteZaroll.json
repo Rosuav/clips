@@ -30,10 +30,5 @@
   "tracking_id": "411528884",
   "url": "https://clips.twitch.tv/TameCleanVulturePeteZaroll?tt_medium=clips_api&tt_content=url",
   "views": 5,
-  "vod": {
-    "id": "389894440",
-    "offset": 9128,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/389894440?t=2h32m8s"
-  }
+  "vod": null
 }

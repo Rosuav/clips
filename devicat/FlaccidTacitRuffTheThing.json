@@ -30,10 +30,5 @@
   "tracking_id": "422311836",
   "url": "https://clips.twitch.tv/FlaccidTacitRuffTheThing?tt_medium=clips_api&tt_content=url",
   "views": 7,
-  "vod": {
-    "id": "398529101",
-    "offset": 9411,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/398529101?t=2h36m51s"
-  }
+  "vod": null
 }

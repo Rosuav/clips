@@ -30,10 +30,5 @@
   "tracking_id": "418432622",
   "url": "https://clips.twitch.tv/ClearDeliciousCourgetteANELE?tt_medium=clips_api&tt_content=url",
   "views": 5,
-  "vod": {
-    "id": "395489825",
-    "offset": 14750,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/395489825?t=4h5m50s"
-  }
+  "vod": null
 }

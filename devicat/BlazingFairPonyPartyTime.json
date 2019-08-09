@@ -9,11 +9,11 @@
   },
   "created_at": "2017-09-20T23:44:56Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/glitchbutt",
-    "display_name": "GlitchButt",
+    "channel_url": "https://www.twitch.tv/glitchbun",
+    "display_name": "GlitchBun",
     "id": "143948433",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/glitchbutt-profile_image-2d71ef22cee17488-150x150.jpeg",
-    "name": "glitchbutt"
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8cbb0415-6a06-43c4-984f-2d6ca1129d28-profile_image-150x150.png",
+    "name": "glitchbun"
   },
   "duration": 60,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=BlazingFairPonyPartyTime&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",

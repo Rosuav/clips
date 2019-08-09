@@ -9,11 +9,11 @@
   },
   "created_at": "2018-08-22T23:15:29Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/vahallan",
-    "display_name": "Vahallan",
+    "channel_url": "https://www.twitch.tv/dragonflygarden",
+    "display_name": "DragonflyGarden",
     "id": "160140313",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/28979064-7836-4cc0-99ae-fbb3e461be36-profile_image-150x150.png",
-    "name": "vahallan"
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/d8fa1267-6cc3-455f-8e55-d9f91c434fab-profile_image-150x150.png",
+    "name": "dragonflygarden"
   },
   "duration": 19.8,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=GiantReliablePuddingOSfrog&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",

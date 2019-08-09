@@ -29,11 +29,6 @@
   "title": "Achievement Unlocked: Get troll-raided",
   "tracking_id": "419727167",
   "url": "https://clips.twitch.tv/SarcasticHungryRadicchioAMPTropPunch?tt_medium=clips_api&tt_content=url",
-  "views": 22,
-  "vod": {
-    "id": "396553766",
-    "offset": 9935,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/396553766?t=2h45m35s"
-  }
+  "views": 26,
+  "vod": null
 }

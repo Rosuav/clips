@@ -12,7 +12,7 @@
     "channel_url": "https://www.twitch.tv/realpikachugamer",
     "display_name": "realpikachugamer",
     "id": "138854204",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/realpikachugamer-profile_image-19951841254be4f5-150x150.jpeg",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c5bb87d-2cc0-41e5-8732-a5539d80f7e3-profile_image-150x150.png",
     "name": "realpikachugamer"
   },
   "duration": 26,
@@ -29,11 +29,6 @@
   "title": "Rosu!!! U r such a cheeky bot!!!",
   "tracking_id": "416415693",
   "url": "https://clips.twitch.tv/NaiveSmoothSamosaFunRun?tt_medium=clips_api&tt_content=url",
-  "views": 10,
-  "vod": {
-    "id": "394025647",
-    "offset": 1104,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/394025647?t=18m24s"
-  }
+  "views": 11,
+  "vod": null
 }

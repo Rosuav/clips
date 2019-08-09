@@ -30,10 +30,5 @@
   "tracking_id": "438499023",
   "url": "https://clips.twitch.tv/TriangularUgliestBobaFailFish?tt_medium=clips_api&tt_content=url",
   "views": 15,
-  "vod": {
-    "id": "411152907",
-    "offset": 11323,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/411152907?t=3h8m43s"
-  }
+  "vod": null
 }

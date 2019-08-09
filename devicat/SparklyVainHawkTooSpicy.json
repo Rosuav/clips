@@ -12,7 +12,7 @@
     "channel_url": "https://www.twitch.tv/realpikachugamer",
     "display_name": "realpikachugamer",
     "id": "138854204",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/realpikachugamer-profile_image-19951841254be4f5-150x150.jpeg",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c5bb87d-2cc0-41e5-8732-a5539d80f7e3-profile_image-150x150.png",
     "name": "realpikachugamer"
   },
   "duration": 59.9,
@@ -29,11 +29,6 @@
   "title": "Boo!!! \ud83d\ude1d\ud83d\ude1d\ud83d\ude1d\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
   "tracking_id": "408667798",
   "url": "https://clips.twitch.tv/SparklyVainHawkTooSpicy?tt_medium=clips_api&tt_content=url",
-  "views": 10,
-  "vod": {
-    "id": "387686937",
-    "offset": 5683,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/387686937?t=1h34m43s"
-  }
+  "views": 17,
+  "vod": null
 }

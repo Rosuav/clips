@@ -29,11 +29,6 @@
   "title": "\ud83c\udf38\u3010 Hello! (\u25cf\u00b4\u03c9\uff40\u25cf)\u3011\ud83c\udf38*:\uff65\uff9f\u2727\u3010!news\u3011",
   "tracking_id": "434026093",
   "url": "https://clips.twitch.tv/ReliableAuspiciousCormorantKappaRoss?tt_medium=clips_api&tt_content=url",
-  "views": 5,
-  "vod": {
-    "id": "407732773",
-    "offset": 18502,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/407732773?t=5h8m22s"
-  }
+  "views": 9,
+  "vod": null
 }

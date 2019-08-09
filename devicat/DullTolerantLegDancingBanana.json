@@ -12,7 +12,7 @@
     "channel_url": "https://www.twitch.tv/realpikachugamer",
     "display_name": "realpikachugamer",
     "id": "138854204",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/realpikachugamer-profile_image-19951841254be4f5-150x150.jpeg",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c5bb87d-2cc0-41e5-8732-a5539d80f7e3-profile_image-150x150.png",
     "name": "realpikachugamer"
   },
   "duration": 29.98,
@@ -29,11 +29,6 @@
   "title": "Savage level is over 9,000!!! XD!!!",
   "tracking_id": "429538903",
   "url": "https://clips.twitch.tv/DullTolerantLegDancingBanana?tt_medium=clips_api&tt_content=url",
-  "views": 9,
-  "vod": {
-    "id": "404239685",
-    "offset": 8306,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/404239685?t=2h18m26s"
-  }
+  "views": 10,
+  "vod": null
 }

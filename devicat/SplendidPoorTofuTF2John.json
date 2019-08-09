@@ -30,10 +30,5 @@
   "tracking_id": "442261736",
   "url": "https://clips.twitch.tv/SplendidPoorTofuTF2John?tt_medium=clips_api&tt_content=url",
   "views": 7,
-  "vod": {
-    "id": "414016571",
-    "offset": 15822,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/414016571?t=4h23m42s"
-  }
+  "vod": null
 }

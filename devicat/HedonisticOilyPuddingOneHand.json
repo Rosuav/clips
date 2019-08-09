@@ -30,10 +30,5 @@
   "tracking_id": "420575676",
   "url": "https://clips.twitch.tv/HedonisticOilyPuddingOneHand?tt_medium=clips_api&tt_content=url",
   "views": 6,
-  "vod": {
-    "id": "397112225",
-    "offset": 14558,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/397112225?t=4h2m38s"
-  }
+  "vod": null
 }

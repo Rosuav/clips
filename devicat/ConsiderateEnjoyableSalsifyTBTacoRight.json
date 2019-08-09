@@ -9,11 +9,11 @@
   },
   "created_at": "2019-03-03T23:35:51Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/goldbonditchpowder",
-    "display_name": "goldbonditchpowder",
+    "channel_url": "https://www.twitch.tv/mydearestpickle",
+    "display_name": "mydearestpickle",
     "id": "161694984",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/257bdd163b79c0e0-profile_image-150x150.png",
-    "name": "goldbonditchpowder"
+    "name": "mydearestpickle"
   },
   "duration": 28,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=ConsiderateEnjoyableSalsifyTBTacoRight&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
@@ -30,10 +30,5 @@
   "tracking_id": "411528873",
   "url": "https://clips.twitch.tv/ConsiderateEnjoyableSalsifyTBTacoRight?tt_medium=clips_api&tt_content=url",
   "views": 8,
-  "vod": {
-    "id": "389894440",
-    "offset": 9124,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/389894440?t=2h32m4s"
-  }
+  "vod": null
 }

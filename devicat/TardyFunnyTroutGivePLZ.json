@@ -9,11 +9,11 @@
   },
   "created_at": "2018-03-25T20:07:37Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/hikari_neko",
-    "display_name": "Hikari_Neko",
+    "channel_url": "https://www.twitch.tv/yuka_neko",
+    "display_name": "Yuka_Neko",
     "id": "157733894",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/9dd83eed-3de6-48c1-9b0d-a4c03d88b227-profile_image-150x150.jpg",
-    "name": "hikari_neko"
+    "name": "yuka_neko"
   },
   "duration": 16.77,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=TardyFunnyTroutGivePLZ&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
