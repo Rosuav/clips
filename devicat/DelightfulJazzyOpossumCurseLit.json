@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "35797987056",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0dd2aec9-acd4-4f10-9060-49841d029e8d-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-09-27T23:54:46Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/blacksouls92",
+    "display_name": "Blacksouls92",
+    "id": "99225896",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/blacksouls92-profile_image-76d2277365231faf-150x150.png",
+    "name": "blacksouls92"
+  },
+  "duration": 36.6,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=DelightfulJazzyOpossumCurseLit&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=DelightfulJazzyOpossumCurseLit&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "DelightfulJazzyOpossumCurseLit",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C541782416-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C541782416-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C541782416-preview-86x45.jpg"
+  },
+  "title": "This is a cat stream now",
+  "tracking_id": "541782416",
+  "url": "https://clips.twitch.tv/DelightfulJazzyOpossumCurseLit?tt_medium=clips_api&tt_content=url",
+  "views": 8,
+  "vod": {
+    "id": "487163793",
+    "offset": 14309,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/487163793?t=3h58m29s"
+  }
+}

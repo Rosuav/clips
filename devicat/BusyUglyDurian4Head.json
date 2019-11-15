@@ -1,0 +1,34 @@
+{
+  "broadcast_id": "34943369984",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0dd2aec9-acd4-4f10-9060-49841d029e8d-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-07-18T00:21:34Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/nechonikki",
+    "display_name": "NechoNikki",
+    "id": "171751428",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef739952-eb21-4d6c-8f29-40cd06175ebc-profile_image-150x150.png",
+    "name": "nechonikki"
+  },
+  "duration": 28,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=BusyUglyDurian4Head&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=BusyUglyDurian4Head&tt_medium=clips_api&tt_content=embed",
+  "game": "Just Chatting",
+  "language": "en",
+  "slug": "BusyUglyDurian4Head",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/34943369984-offset-8346-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/34943369984-offset-8346-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/34943369984-offset-8346-preview-86x45.jpg"
+  },
+  "title": "\ud83c\udf6d Harajuku Girl \ud83c\udf6d*:\uff65\uff9f\u2727 !MOVE",
+  "tracking_id": "496801908",
+  "url": "https://clips.twitch.tv/BusyUglyDurian4Head?tt_medium=clips_api&tt_content=url",
+  "views": 5,
+  "vod": null
+}

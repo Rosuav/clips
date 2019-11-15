@@ -1,0 +1,39 @@
+{
+  "broadcast_id": "35928507840",
+  "broadcaster": {
+    "channel_url": "https://www.twitch.tv/devicat",
+    "display_name": "DeviCat",
+    "id": "54212603",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0dd2aec9-acd4-4f10-9060-49841d029e8d-profile_image-150x150.png",
+    "name": "devicat"
+  },
+  "created_at": "2019-10-10T21:02:03Z",
+  "curator": {
+    "channel_url": "https://www.twitch.tv/iceyvampir",
+    "display_name": "IceyVampir",
+    "id": "98910438",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/9f878ada-3322-4270-94f0-5bbad057e938-profile_image-150x150.png",
+    "name": "iceyvampir"
+  },
+  "duration": 60,
+  "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=MildPopularJackalRlyTho&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
+  "embed_url": "https://clips.twitch.tv/embed?clip=MildPopularJackalRlyTho&tt_medium=clips_api&tt_content=embed",
+  "game": "Art",
+  "language": "en",
+  "slug": "MildPopularJackalRlyTho",
+  "thumbnails": {
+    "medium": "https://clips-media-assets2.twitch.tv/AT-cm%7C548829774-preview-480x272.jpg",
+    "small": "https://clips-media-assets2.twitch.tv/AT-cm%7C548829774-preview-260x147.jpg",
+    "tiny": "https://clips-media-assets2.twitch.tv/AT-cm%7C548829774-preview-86x45.jpg"
+  },
+  "title": "IceyVampir Won DeviMail",
+  "tracking_id": "548829774",
+  "url": "https://clips.twitch.tv/MildPopularJackalRlyTho?tt_medium=clips_api&tt_content=url",
+  "views": 9,
+  "vod": {
+    "id": "492812424",
+    "offset": 4040,
+    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
+    "url": "https://www.twitch.tv/videos/492812424?t=1h7m20s"
+  }
+}
