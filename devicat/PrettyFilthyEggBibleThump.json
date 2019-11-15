@@ -4,7 +4,7 @@
     "channel_url": "https://www.twitch.tv/devicat",
     "display_name": "DeviCat",
     "id": "54212603",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0dd2aec9-acd4-4f10-9060-49841d029e8d-profile_image-150x150.png",
     "name": "devicat"
   },
   "created_at": "2019-06-11T02:03:21Z",
@@ -30,10 +30,5 @@
   "tracking_id": "474268836",
   "url": "https://clips.twitch.tv/PrettyFilthyEggBibleThump?tt_medium=clips_api&tt_content=url",
   "views": 9,
-  "vod": {
-    "id": "437238293",
-    "offset": 21499,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/437238293?t=5h58m19s"
-  }
+  "vod": null
 }

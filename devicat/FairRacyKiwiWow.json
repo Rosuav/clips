@@ -4,16 +4,16 @@
     "channel_url": "https://www.twitch.tv/devicat",
     "display_name": "DeviCat",
     "id": "54212603",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0dd2aec9-acd4-4f10-9060-49841d029e8d-profile_image-150x150.png",
     "name": "devicat"
   },
   "created_at": "2017-03-31T00:22:15Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/elainespencer",
-    "display_name": "ElaineSpencer",
+    "channel_url": "https://www.twitch.tv/hecatiia",
+    "display_name": "Hecatiia",
     "id": "36936229",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/06903d565fc392c3-profile_image-150x150.png",
-    "name": "elainespencer"
+    "name": "hecatiia"
   },
   "duration": 32,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=FairRacyKiwiWow&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",

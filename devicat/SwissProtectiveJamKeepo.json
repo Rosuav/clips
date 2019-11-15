@@ -4,7 +4,7 @@
     "channel_url": "https://www.twitch.tv/devicat",
     "display_name": "DeviCat",
     "id": "54212603",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0dd2aec9-acd4-4f10-9060-49841d029e8d-profile_image-150x150.png",
     "name": "devicat"
   },
   "created_at": "2019-07-20T22:18:51Z",
@@ -12,7 +12,7 @@
     "channel_url": "https://www.twitch.tv/realpikachugamer",
     "display_name": "realpikachugamer",
     "id": "138854204",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6c5bb87d-2cc0-41e5-8732-a5539d80f7e3-profile_image-150x150.png",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/abaa0862-cdb3-4ffa-844c-cae0371456fd-profile_image-150x150.png",
     "name": "realpikachugamer"
   },
   "duration": 59.9,
@@ -30,10 +30,5 @@
   "tracking_id": "498630945",
   "url": "https://clips.twitch.tv/SwissProtectiveJamKeepo?tt_medium=clips_api&tt_content=url",
   "views": 7,
-  "vod": {
-    "id": "455654094",
-    "offset": 573,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/455654094?t=9m33s"
-  }
+  "vod": null
 }

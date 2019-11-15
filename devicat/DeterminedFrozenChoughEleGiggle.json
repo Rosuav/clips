@@ -4,7 +4,7 @@
     "channel_url": "https://www.twitch.tv/devicat",
     "display_name": "DeviCat",
     "id": "54212603",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0dd2aec9-acd4-4f10-9060-49841d029e8d-profile_image-150x150.png",
     "name": "devicat"
   },
   "created_at": "2019-07-15T18:16:46Z",
@@ -12,7 +12,7 @@
     "channel_url": "https://www.twitch.tv/trixy_eviesdarkside",
     "display_name": "trixy_eviesdarkside",
     "id": "448498093",
-    "logo": "https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-150x150.jpg",
+    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-150x150.png",
     "name": "trixy_eviesdarkside"
   },
   "duration": 10,
@@ -29,11 +29,6 @@
   "title": "\ud83c\udf6d(\u25cf\u00b4\u03c9\uff40\u25cf) \ud83c\udf6d*:\uff65\uff9f\u2727 Cheer with BleedPurple",
   "tracking_id": "495357353",
   "url": "https://clips.twitch.tv/DeterminedFrozenChoughEleGiggle?tt_medium=clips_api&tt_content=url",
-  "views": 5,
-  "vod": {
-    "id": "452795542",
-    "offset": 0,
-    "preview_image_url": "https://static-cdn.jtvnw.net/s3_vods/08f7940c1a240bad9cfb_devicat_34904915424_1250226140/thumb/thumb0-320x240.jpg",
-    "url": "https://www.twitch.tv/videos/452795542?t=0s"
-  }
+  "views": 6,
+  "vod": null
 }

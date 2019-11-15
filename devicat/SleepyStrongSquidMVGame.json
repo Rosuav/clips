@@ -4,16 +4,16 @@
     "channel_url": "https://www.twitch.tv/devicat",
     "display_name": "DeviCat",
     "id": "54212603",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0dd2aec9-acd4-4f10-9060-49841d029e8d-profile_image-150x150.png",
     "name": "devicat"
   },
   "created_at": "2018-01-23T07:50:11Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/comicbookhero",
-    "display_name": "ComicBookHero",
+    "channel_url": "https://www.twitch.tv/herogw",
+    "display_name": "HeroGW",
     "id": "132934487",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a0a5a8d-1f8d-4fdc-9d58-6ec92799b468-profile_image-150x150.jpg",
-    "name": "comicbookhero"
+    "name": "herogw"
   },
   "duration": 36,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=SleepyStrongSquidMVGame&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",

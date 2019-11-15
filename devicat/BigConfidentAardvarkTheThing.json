@@ -4,7 +4,7 @@
     "channel_url": "https://www.twitch.tv/devicat",
     "display_name": "DeviCat",
     "id": "54212603",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0dd2aec9-acd4-4f10-9060-49841d029e8d-profile_image-150x150.png",
     "name": "devicat"
   },
   "created_at": "2018-09-11T00:15:33Z",
@@ -12,7 +12,7 @@
     "channel_url": "https://www.twitch.tv/masters968",
     "display_name": "masters968",
     "id": "250217127",
-    "logo": "https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-150x150.jpg",
+    "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/41780b5a-def8-11e9-94d9-784f43822e80-profile_image-150x150.png",
     "name": "masters968"
   },
   "duration": 30,
@@ -29,6 +29,6 @@
   "title": "\ud83c\udf42\ud83c\udf83\u3010Cat Witch\u3011\ud83c\udf83\ud83c\udf42*:\uff65\uff9f\u2727\u3010!news\u3011",
   "tracking_id": "307169441",
   "url": "https://clips.twitch.tv/BigConfidentAardvarkTheThing?tt_medium=clips_api&tt_content=url",
-  "views": 13,
+  "views": 14,
   "vod": null
 }

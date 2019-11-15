@@ -4,16 +4,16 @@
     "channel_url": "https://www.twitch.tv/devicat",
     "display_name": "DeviCat",
     "id": "54212603",
-    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/15c9f664-be7b-4d13-9842-9dd2be69a856-profile_image-150x150.png",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0dd2aec9-acd4-4f10-9060-49841d029e8d-profile_image-150x150.png",
     "name": "devicat"
   },
   "created_at": "2019-06-22T22:30:15Z",
   "curator": {
-    "channel_url": "https://www.twitch.tv/digitalgalaxies",
-    "display_name": "DigitalGalaxies",
+    "channel_url": "https://www.twitch.tv/star_cherry",
+    "display_name": "Star_Cherry",
     "id": "146206809",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/1b7a13db-ac96-439d-9335-b5b336f19e97-profile_image-150x150.png",
-    "name": "digitalgalaxies"
+    "name": "star_cherry"
   },
   "duration": 16.3,
   "embed_html": "<iframe src='https://clips.twitch.tv/embed?clip=RelatedNiceSwanShazBotstix&tt_medium=clips_api&tt_content=embed' width='640' height='360' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>",
@@ -30,10 +30,5 @@
   "tracking_id": "481544042",
   "url": "https://clips.twitch.tv/RelatedNiceSwanShazBotstix?tt_medium=clips_api&tt_content=url",
   "views": 14,
-  "vod": {
-    "id": "442791054",
-    "offset": 8854,
-    "preview_image_url": "https://vod-secure.twitch.tv/_404/404_processing_320x240.png",
-    "url": "https://www.twitch.tv/videos/442791054?t=2h27m34s"
-  }
+  "vod": null
 }
