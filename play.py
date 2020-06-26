@@ -18,6 +18,7 @@ while True:
 	base = dir + fn.strip().replace(".json", "")
 	with open(base + ".json") as f: meta = json.load(f)
 	print()
-	print("Clip taken by", meta["curator"]["display_name"], "at", meta["created_at"])
+	# creator_name or curator -> helix or kraken
+	print("Clip taken by", meta.get("creator_name") or meta["curator"]["display_name"], "at", meta["created_at"])
 	print(meta["title"])
 	subprocess.check_call(["google-chrome", base + ".mp4"])
