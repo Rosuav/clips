@@ -1,3 +1,34 @@
+#if constant(G)
+//This part needs to be invoked with some StilleBot functionality available. TODO: Make
+//that possible somehow. It might involve importing ../stillebot/poll.pike, but that
+//will also require some globals and such.
+void clips_display(string channel)
+{
+	string dir = "../clips/" + channel;
+	array files = get_dir(dir);
+	multiset unseen;
+	if (files) unseen = (multiset)glob("*.json", files);
+	get_user_id(channel)->then(lambda (int userid) {
+		return get_helix_paginated("https://api.twitch.tv/helix/clips",
+			(["broadcaster_id": (string)userid, "first": "100"]));
+	})->then(lambda (array clips) {
+		foreach (clips, mapping clip)
+		{
+			if (unseen)
+			{
+				unseen[clip->id + ".json"] = 0;
+				Stdio.write_file(dir + "/" + clip->id + ".json", Standards.JSON.encode(clip, 7));
+			}
+			write(string_to_utf8(sprintf("[%s] %s %s - %s\n", clip->created_at, clip->id, clip->creator_name, clip->title)));
+		}
+		if (unseen && sizeof(unseen))
+			write("%d deleted clips:\n%{\t%s\n%}", sizeof(unseen), sort((array)unseen));
+	}, lambda (mapping err) {
+		write("Error fetching clips: %O\n", err);
+	});
+}
+#endif
+
 int main(int argc, array(string) argv)
 {
 	if (argc < 2) exit(1, "USAGE: pike %s channelname\n", argv[0]);
